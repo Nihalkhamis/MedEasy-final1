@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MedEasy</string>
+    <string name="title_activity_syndr">SyndrActivity</string>
+    <string name="Alarm">Alarm</string>
+    <string name="please_select_time">Please Select Time</string>
+    <string name="st">sat</string>
+    <string name="sun">sun</string>
+    <string name="mon">mon</string>
+    <string name="tue">tue</string>
+    <string name="wed">wed</string>
+    <string name="thu">thu</string>
+    <string name="fri">fri</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Assessment_Sheet">Assessment Sheet</string>
+    <string name="Level_Of_Consciousness">Level Of Consciousness</string>
+    <string name="A">A</string>
+    <string name="P">P</string>
+    <string name="V">V</string>
+    <string name="U">U</string>
+    <string name="Vital_Signs">Vital Signs</string>
+    <string name="Pulse">Pulse</string>
+    <string name="Rate">Rate</string>
+    <string name="Rhythm">Rhythm</string>
+    <string name="b_min">b/min</string>
+    <string name="Equality">Equality</string>
+    <string name="dot">.</string>
+    <string name="Peripheral_Pulsation">Peripheral Pulsation</string>
+    <string name="Felt">Felt</string>
+    <string name="Not_felt">Not felt</string>
+    <string name="BP">BP</string>
+    <string name="Right">Right</string>
+    <string name="mm_Hg">mm/Hg</string>
+    <string name="Left">Left</string>
+    <string name="Temp">Temp</string>
+    <string name="C">°C</string>
+    <string name="RR">RR</string>
+    <string name="C_min">C/min</string>
+    <string name="O2_saturation">O2 saturation</string>
+    <string name="Chest_Pain">Chest Pain</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="Head_And_Neck">Head And Neck</string>
+    <string name="Neck_veins">Neck veins</string>
+    <string name="Other">Other</string>
+    <string name="LL_oedema">LL oedema</string>
+    <string name="Bilateral">Bilateral</string>
+    <string name="Pitting">Pitting</string>
+    <string name="Non_Pitting">Non Pitting</string>
+    <string name="Back">Back</string>
+    <string name="next">next</string>
+
+
+</resources>
